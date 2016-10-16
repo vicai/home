@@ -1,0 +1,31 @@
+{
+  "nameCard": {
+    "avatar": "https://dl.dropboxusercontent.com/u/33593973/vic_avatar.jpg",
+    "chineseName": "蔡伟骐",
+    "links": [
+      {
+        "service": "gmail",
+        "url": "caiweiqi@gmail.com"
+      },
+      {
+        "service": "facebook",
+        "url": "https://www.facebook.com/caiweiqi"
+      },
+      {
+        "service": "linkedIn",
+        "url": "https://www.linkedin.com/in/weiqicai"
+      },
+      {
+        "service": "github",
+        "url": "https://github.com/vicai"
+      },
+      {
+        "service": "500px",
+        "url": "https://500px.com/weiqicai"
+      }
+    ],
+    "name": "Weiqi Cai",
+    "nickName": "Vic",
+    "title": "Engineer@Clari"
+  }
+}

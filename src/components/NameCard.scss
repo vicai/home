@@ -1,0 +1,33 @@
+:local(.chineseName) {
+  bottom: 0px;
+  color: rgb(47, 152, 66);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  left: 0px;
+  margin-top: 45%;
+  opacity: 1;
+  width: 430px;
+}
+
+:local(.name) {
+  border-bottom: 2px solid #eee;
+  color: rgb(74, 74, 74);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.2;
+  margin-top: 5%;
+}
+
+:local(.nameCard) {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+:local(.title) {
+  color: rgb(3, 3, 3);
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 15%;
+}

@@ -1,0 +1,19 @@
+:local(.avatar) {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+:local(.circle) {
+  height: 250px;
+  border-radius: 50%;
+  margin-top: 50%;
+}
+
+:local(.comment) {
+  align-content: center;
+  color: #8f8e94;
+  font-size: 12px;
+  text-align: center;
+  margin: 10px;
+}

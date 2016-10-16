@@ -1,0 +1,17 @@
+:local(.grid) {
+  display:flex;
+  height: 100%;
+  width: 100%;
+}
+
+:local(.left) {
+  width: 33%;
+}
+
+:local(.mid) {
+  width: 35%;
+}
+
+:local(.right) {
+  width: 32%;
+}
