@@ -16,7 +16,9 @@ class App extends React.Component {
     super(props);
 
     this.state = {
-      info: null,
+      info: Immutable.Map({
+        nameCard: Immutable.Map(),
+      }),
     };
   }
 
