@@ -4,6 +4,7 @@
   "author": "Vic Cai <caiweiqi@gmail.com>",
   "private": true,
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "webpack-dev-server --config webpack.config.dev.js"
   },
   "dependencies": {
